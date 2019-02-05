@@ -1,0 +1,2 @@
+DATA_REFERENCIA|HOST_HDFS|IP|DIRETORIO_ENTRADA|DIRETORIO_PROCESSANDO|DIRETORIO_REJEITADOS|DIRETORIO_PROCESSADOS|DIRETORIO_ARQUIVO_PARAMETROS
+20181101|bcodxbgd01.externo.ad|172.22.39.34|/home/david.braga/AutomatizadorIngestoes_Original/ftp/|/dados/stgdatalake/processando/|/dados/stgdatalake/rejeitados/|/dados/stgdatalake/processados/|/home/david.braga/AutomatizadorIngestoes_Original/configuracoes/arquivo_parametros.txt
